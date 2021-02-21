@@ -19,7 +19,7 @@ kendimizi tekrar etmeyeceğimiz şekilde yazılmaya çalışılmaktadır.N-Katma
 :open_file_folder: Concrete
 - :page_with_curl: [Car.cs](https://github.com/fatmacafri/ReCapProject/blob/master/Entities/Concrete/Car.cs)
 
-**2. DATA ACCESS LAYER** : Veriye erişmek için gerekli kodların yazıldığı katmandır.
+**2. DATA ACCESS LAYER** : Veritabanı CRUD işlemleri gerçekleştirmek için oluşturulan katmandır.
 -
 :open_file_folder: Abstract
 - :page_with_curl: [ICarDal.cs](https://github.com/fatmacafri/ReCapProject/blob/master/DataAccess/Abstract/ICarDal.cs)
@@ -30,7 +30,7 @@ kendimizi tekrar etmeyeceğimiz şekilde yazılmaya çalışılmaktadır.N-Katma
 
 :round_pushpin: Bu katmanda Entities katmanından faydalanacağız o yüzden referans olarak Entities katmanını eklemeliyiz.
 
-**3. BUSINESS LAYER** : İş kodlarını yazdığımız katmandır.
+**3. BUSINESS LAYER** : Sunum katmanından gelen bilgileri gerekli koşullara göre işlemek veya denetlemek için oluşturulan katmandır.(İş kodlarını yazdığımız katmandır.)
 -
 :open_file_folder: Abstract
 - :page_with_curl: [ICarService.cs.cs](https://github.com/fatmacafri/ReCapProject/blob/master/Business/Abstract/ICarService.cs)
