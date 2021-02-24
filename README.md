@@ -6,7 +6,7 @@
 :heavy_check_mark: _Bu proje Yazılım Geliştirici Yetiştirme Kampı'nda yapılan çalışmaları kapsayan Araba Kiralama Sistemi'dir._
 
 ## 📌İÇERİK
-Bu proje Araba Kiralama iş yerlerine yönelik bir projedir.Hem kurumsal mimariye hemde SOLID prensiblerine uygun olarak 
+Bu proje Araba Kiralama iş yerlerine yönelik bir projedir.Hem kurumsal mimariye hemde SOLID prensiplerine uygun olarak 
 kendimizi tekrar etmeyeceğimiz şekilde yazmaya çalışıyorum. N-Katmanlı mimari yapısı ile hazırladığım proje henüz tamamlanmamış olup geliştirme aşamasındayım.
 
 ## 📌KATMANLAR
