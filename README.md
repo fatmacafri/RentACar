@@ -7,7 +7,7 @@
 
 ## 📌İÇERİK
 Bu proje Araba Kiralama iş yerlerine yönelik bir projedir.Hem kurumsal mimariye hemde SOLID prensiblerine uygun olarak 
-kendimizi tekrar etmeyeceğimiz şekilde yazılmaya çalışılmaktadır.N-Katmanlı mimari yapısı ile hazırlanan proje henüz tamamlanmamış olup geliştirme aşamasındadır.
+kendimizi tekrar etmeyeceğimiz şekilde yazmaya çalışıyorum. N-Katmanlı mimari yapısı ile hazırladığım proje henüz tamamlanmamış olup geliştirme aşamasındayım.
 
 ## 📌KATMANLAR
 
